@@ -44,34 +44,23 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-What are the trends in Domestic and External Debt over time?
+How have domestic and external debt levels changed over the years?
 
-How does the Annual Domestic to External Debt Ratio fluctuate over time?
+How does the ratio of domestic debt to external debt change annually?
 
-What is the total amount of Domestic and External Debt by year?
+What is the breakdown of total debt into domestic and external components over time?
 
-How is the Debt Composition structured between Domestic and External Debt?
+How have nominal and real GDP, as well as annual GDP growth rates, evolved over the years?
 
-How do Domestic Debt and External Debt compare from 1999 to 2024?
+How do domestic and external debt levels compare to GDP over time?
 
-What are the Yearly Growth Rates of Domestic and External Debt?
+How does the growth rate of debt compare to the growth rate of GDP?
 
-What is the Annual GDP Growth Rate over time?
+### Key Findings
+The close split between Domestic Debt (48.8%) and External Debt (51.2%) suggests that Kenya maintains a relatively balanced borrowing strategy. This balance may help the country mitigate risks, such as currency fluctuations or interest rate changes that could affect external debt more severely.
 
-What is the Real GDP over time?
+The increasing reliance on both domestic and external debt signals a potential vulnerability to economic shocks, especially if interest rates rise or if there are downturns in global markets. Balancing the two types of debt is crucial for long-term financial stability.
 
-What are the Nominal GDP figures (in Ksh Million) over time?
+### Conclusion
 
-How do Domestic Debt and Annual GDP Growth relate to each other over time?
-
-What is the relationship between Annual GDP Growth and Domestic Debt?
-
-How does Annual GDP Growth relate to External Debt?
-
-How do External Debt levels impact Annual GDP Growth over time?
-
-What are the Debt Levels Relative to GDP over time?
-
-How do Debt Levels relate to GDP Growth over time?
-
-
+This analysis of public debt trends over the last two decades shows how borrowing, economic growth, and financial responsibility are connected. It is important to look at key economic indicators and how borrowing has changed over time. The findings highlight the need for careful debt management, especially when it comes to both external and domestic loans, and investing in projects that will help the economy in the long run.
